@@ -1,6 +1,13 @@
 # Infocollector
 This tool is for finding/discovering all email id's/phone numbers on any big website. It is a pre-release version.  More functions and optimization will be initiated soon.
 
+Note: Use Python 3.0 above versions. 
+
+Install these libraries first:
+Module: 're', Module: 'tqdm', Module: 'requests'
+
+use this: pip install <module Name>
+
 ## How to run this script:
 if you have already installed the python and set the python environment variable then you just need to follow below steps:
 > Step 1: Extract the folder.
