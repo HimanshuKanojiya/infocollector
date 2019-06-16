@@ -6,7 +6,7 @@ Note: Use Python 3.0 above versions.
 Install these libraries first:
 Module: 're', Module: 'tqdm', Module: 'requests'
 
-use this: pip install <module Name>
+Example: pip install requests 
 
 ## How to run this script:
 if you have already installed the python and set the python environment variable then you just need to follow below steps:
