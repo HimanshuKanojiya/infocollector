@@ -17,6 +17,7 @@ Step 1: Open the CMD.
 Step 2: GO to drive C:/D:/E: where you have installed the python via CMD.
 
 Step 3: After entering the Python Folder/directory, type "python.exe <Full Path of Universal Program>". 
+  
   Example: python.exe "F:\MyCodes\infocollector\universal_extractor.py"
 
 ### More Info/documentation will be added soon.
