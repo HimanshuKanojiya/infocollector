@@ -19,5 +19,10 @@ Step 2: GO to drive C:/D:/E: where you have installed the python via CMD.
 Step 3: After entering the Python Folder/directory, type "python.exe <Full Path of Universal Program>". 
   
   Example: python.exe "F:\MyCodes\infocollector\universal_extractor.py"
+  
+ ## Instrunctions to use this script:
+ 
+ After running the script, you need to give the URL's in console screen. Type the URL of target website after this ">".
+> Example: https://hackerzyard.blogspot.com 
 
 ### More Info/documentation will be added soon.
