@@ -1,5 +1,5 @@
 # Infocollector
-This tool is for finding/discovering all email id's/phone numbers on any big website.
+This tool is for finding/discovering all email id's/phone numbers on any big website. It is a pre-release version.  More functions and optimization will be initiated soon.
 
 ## How to run this script:
 if you have already installed the python and set the python environment variable then you just need to follow below steps:
