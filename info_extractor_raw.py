@@ -8,7 +8,7 @@
     Repository URL: https://github.com/HimanshuKanojiya/infocollector
     Website: https://hackerzyard.blogspot.com
     Program/Software Name: Info Collector
-    Version: 1.0
+    Version: 1.1
 
     Note: This file is used to find the sensitive information format,
     if any issues come in results then we need to do some changes in this
