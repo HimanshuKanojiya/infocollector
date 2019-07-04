@@ -1,4 +1,4 @@
-# Info collector
+# Info collector - Data Harvesting/Web Scrapping Tool
 
 Info collector is data harvesting/web scraping tool which is used to gather the hidden and unstructured data on the website. It has the capability of collecting email addresses and phone numbers. It is CLI (Command line interface) program which runs on the black screen of cmd like below: 
 
