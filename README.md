@@ -40,21 +40,27 @@ For now, most of the items will not install automatically. Install these librari
 In a future version, this process will be fixed. 
 
 #### How to run this script:
-if you have already installed the python and set the python environment variable then you just need to follow below steps:
-- Step 1: Extract the folder.
-- Step 2: Open the CMD
-- Step 3: After opening the CMD, write "python <program name/full program path>". Example "python universal_extractor.py".
+if you haven't set the python environment variable yet then do below steps or set the variable first:
+1. Go to the python37 directory via cmd.
+2. Type this:
+python.exe "____Full Path of the Program______.py"
 
-if you don't set the python environment variable then you will follow these steps:
-- Step 1: Open the CMD.
-- Step 2: GO to drive C:/D:/E: where you have installed the python via CMD.
-- Step 3: After entering the Python Folder/directory, type "python.exe <Full Path of Universal Program>". 
-  
-  Example: python.exe "F:\MyCodes\infocollector\universal_extractor.py"
-  
-## Instrunctions to use this script:
- 
-After running the script, you need to give the URL's in console screen. Type the URL of target website after this ">".
-> Example: https://hackerzyard.blogspot.com 
+If you have set the python environment variable then do below steps:
+1. Open the cmd.
+2. Type this:
+python "____Full Path of the Program______.py" 
 
-### More Info/documentation will be added soon.
+After running the script, you need to give the URL in the console screen. Type the URL of the target website after this:
+
+> https://hackerzyard.blogspot.com 
+
+**Note: Don't put forward slash "/" after the URL.**
+
+![image](https://1.bp.blogspot.com/-JdYowhWTPoQ/XRtfcJVgTiI/AAAAAAAACso/AVfryrtgAtYaF1tGS-xwShh6UysLuPGzwCLcBGAs/s640/leap_2.png)
+
+As you can see in the above image, there are two methods to scrap/harvest the website. 
+1. The first method is to produce quick results. It will target only Google indexed pages of the website.
+2. The second method is to allow the info collector to run on the whole website no matter page is indexed or not.
+
+**In the end, you will get the results (See below snap):**
+![image](https://1.bp.blogspot.com/-J-4rPhJ97EY/XRtfejFiS5I/AAAAAAAACss/Qusctzdoyso5c-P0ZIRFwk6-P5jvpTVvQCLcBGAs/s640/lead45.png)
