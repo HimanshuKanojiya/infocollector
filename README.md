@@ -43,12 +43,12 @@ In a future version, this process will be fixed.
 if you haven't set the python environment variable yet then do below steps or set the variable first:
 1. Go to the python37 directory via cmd.
 2. Type this:
-python.exe "____Full Path of the Program______.py"
+python.exe "______ Full Path of the Program ______.py"
 
 If you have set the python environment variable then do below steps:
 1. Open the cmd.
 2. Type this:
-python "____Full Path of the Program______.py" 
+python "_____ Full Path of the Program ______.py" 
 
 After running the script, you need to give the URL in the console screen. Type the URL of the target website after this:
 
@@ -63,4 +63,5 @@ As you can see in the above image, there are two methods to scrap/harvest the we
 2. The second method is to allow the info collector to run on the whole website no matter page is indexed or not.
 
 **In the end, you will get the results (See below snap):**
+
 ![image](https://1.bp.blogspot.com/-J-4rPhJ97EY/XRtfejFiS5I/AAAAAAAACss/Qusctzdoyso5c-P0ZIRFwk6-P5jvpTVvQCLcBGAs/s640/lead45.png)
