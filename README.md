@@ -6,7 +6,7 @@ Info collector is data harvesting/web scraping tool which is used to gather the 
 
 It is a little bit difficult to run for some non tech background people due to command line interface.
 
-Some features of this script are:
+#### Some features of this script are:
 1. Optimized to work on any website.
 2. Provide results quickly as soon as possible (depends on the size of data).
 3. Work switcher: 
