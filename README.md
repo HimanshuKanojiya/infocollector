@@ -40,6 +40,8 @@ For now, most of the items will not install automatically. Install these librari
 In a future version, this process will be fixed. 
 
 #### How to run this script:
+To run the python script, run the info_extractor_v1.2.py
+
 if you haven't set the python environment variable yet then do below steps or set the variable first:
 1. Go to the python37 directory via cmd.
 2. Type this:
