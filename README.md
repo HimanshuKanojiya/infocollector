@@ -34,9 +34,6 @@ For now, most of the items will not install automatically. Install these librari
 
 3. Module beautifulsoup4 ("https://pypi.org/project/beautifulsoup4/")
 
-4. google-search
-("https://pypi.org/project/google-search/")
-
 In a future version, this process will be fixed. 
 
 #### How to run this script:
