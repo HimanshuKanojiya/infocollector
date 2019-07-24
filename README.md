@@ -59,7 +59,7 @@ After running the script, you need to give the URL in the console screen. Type t
 ![image](https://1.bp.blogspot.com/-JdYowhWTPoQ/XRtfcJVgTiI/AAAAAAAACso/AVfryrtgAtYaF1tGS-xwShh6UysLuPGzwCLcBGAs/s640/leap_2.png)
 
 As you can see in the above image, there are two methods to scrap/harvest the website. 
-1. The first method is to produce quick results. It will target only Google indexed pages of the website.
+1. ~~The first method is to produce quick results. It will target only Google indexed pages of the website.~~ Now, In the updated version, the href link following method will be used as the first option. 
 2. The second method is to allow the info collector to run on the whole website no matter page is indexed or not.
 
 **In the end, you will get the results (See below snap):**
